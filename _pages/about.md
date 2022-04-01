@@ -20,12 +20,13 @@ redirect_from:
 Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.github.io/">Computer Graphics Laboratory (CGL)</a>, SUTD, Singapore, under supervision of Prof. Peng Song. He finished his Bachelor degree at Shantou University, China. The topic of his study mainly focuses on designing 3D assemblies using assembly-aware computational methods. Particularly, his work can be applied to design high-level interlocking puzzles.
 
 # 📖 Educations
-- *Ph.D. in Computer Graphics, Computer Graphics Laboratory, SUTD, Singapore* 2020.09 - 
+- *Ph.D. in Computer Graphics, Computer Graphics Laboratory, SUTD, Singapore*, 2020.09 - 
 - *Bachelor in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.06 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.03*: &nbsp;🎉🎉 One paper has been accepted by Siggraph 2022. 
+- *2022.02*: Pass the QPE and become a Ph.D candidate.
+- *2020.09*: Enrolled as a Ph.D. student at CGL, SUTD under supervision of Prof. Peng Song. 
 
 # 📝 Publications 
 
@@ -42,10 +43,6 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
