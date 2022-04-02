@@ -39,6 +39,9 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 
 \| [\[home page\]](https://github.com/) \| [\[pdf\]](https://github.com/) \| [\[video\]](https://github.com/)
 
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💬 Invited Talks
