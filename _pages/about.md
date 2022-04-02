@@ -37,12 +37,12 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 
 **Rulin Chen**, Ziqi Wang, Peng Song, Bernd Bickel
 
-\| [\[home page\]](https://github.com/) \| [\[pdf\]](https://github.com/) \| [\[video\]](https://github.com/)
+[\[home page\]](https://github.com/) \| [\[pdf\]](https://github.com/) \| [\[video\]](https://github.com/)
 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [FPGA Design of Real-time MDFD System using High-level Sysnthesis](https://github.com), Chuliang Wei, **Rulin Chen**, Qin Xin, **IEEE Access**
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
