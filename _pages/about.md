@@ -24,7 +24,8 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 - *Bachelor in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.06 
 
 # News
-- *2022.03*: &nbsp;🎉🎉 One paper has been accepted by Siggraph 2022. 
+- *2022.04*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been has been selected for inclusion in the Technical Papers Video Trailer Siggraph 2022.
+- *2022.03*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been accepted by Siggraph 2022. 
 - *2022.02*: Pass the QPE and become a Ph.D candidate.
 - *2020.09*: Enrolled as a Ph.D. student at CGL, SUTD under supervision of Prof. Peng Song. 
 
