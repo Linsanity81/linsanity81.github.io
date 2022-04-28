@@ -37,7 +37,7 @@ Computational Design of High-level Interlocking Puzzles
 
 **Rulin Chen**, Ziqi Wang, Peng Song, Bernd Bickel
 
-[\[code\]](https://github.com/Linsanity81/High-LevelPuzzle) 
+[\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) [\[video\]](https://www.youtube.com/watch?v=03WBVhs_6GI)  [\[code\]](https://github.com/Linsanity81/High-LevelPuzzle) 
 
 <!-- [\[home page\]](TODO..) \| [\[pdf\]](TODO..) \| [\[code\]](TODO..) \| [\[video\]](TODO..) -->
 
