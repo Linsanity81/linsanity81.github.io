@@ -44,10 +44,30 @@ Computational Design of High-level Interlocking Puzzles
 </div>
 </div>
 
-- FPGA Design of Real-time MDFD System using High-level Sysnthesis. Chuliang Wei, **Rulin Chen**, Qin Xin, **IEEE Access** [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8743445)
 
-- Shape Reconstruction from a Monocular Defocus Image Using CNN. **Rulin Chen**, Alex Noel Joseph Raj, Xun Ma, Zhemin Zhuang, **SAI Intelligent Systems Conference 2020** [\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf)
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Siggraph 2022</div><img src='images/dfd_fpga.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
+FPGA Design of Real-time MDFD System using High-level Sysnthesis 
+
+Chuliang Wei, **Rulin Chen**, Qin Xin, **IEEE Access** 
+
+[\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8743445)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Siggraph 2022</div><img src='images/dfd_fpga.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+Shape Reconstruction from a Monocular Defocus Image Using CNN
+**Rulin Chen**, Alex Noel Joseph Raj, Xun Ma, Zhemin Zhuang, **SAI Intelligent Systems Conference 2020** 
+[\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf)
+
+
+</div>
+</div>
 <!-- # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
