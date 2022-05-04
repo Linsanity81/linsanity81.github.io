@@ -53,9 +53,7 @@ FPGA Design of Real-time MDFD System using High-level Sysnthesis
 
 Chuliang Wei, **Rulin Chen**, Qin Xin
 
-**IEEE Access** 
-
-[\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8743445)
+**IEEE Access** [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8743445)
 
 </div>
 </div>
@@ -68,9 +66,7 @@ Shape Reconstruction from a Monocular Defocus Image Using CNN
 
 **Rulin Chen**, Alex Noel Joseph Raj, Xun Ma, Zhemin Zhuang
 
-**SAI Intelligent Systems Conference 2020** 
-
-[\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf)
+**SAI Intelligent Systems Conference 2020**  [\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf)
 
 
 </div>
