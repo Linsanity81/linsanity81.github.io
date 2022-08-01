@@ -35,15 +35,13 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Siggraph 2022</div><img src='images/high-level_puzzle.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Computational Design of High-level Interlocking Puzzles**
+<div style="font-size: 20px"> **Computational Design of High-level Interlocking Puzzles** </div>
 
 ***Rulin Chen***, Ziqi Wang, Peng Song, Bernd Bickel
 
 ***ACM Transactions on Graphics (Proc. of SIGGRAPH), 2022*** 
 
 [\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) [\[video\]](https://www.youtube.com/watch?v=03WBVhs_6GI)  [\[code\]](https://github.com/Linsanity81/High-LevelPuzzle) 
-
-<!-- [\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) \| [\[pdf\]](TODO..) \| [\[code\]](TODO..) \| [\[video\]](TODO..) -->
 
 </div>
 </div>
