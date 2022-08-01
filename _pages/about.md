@@ -35,7 +35,7 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Siggraph 2022</div><img src='images/high-level_puzzle.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-<div style="font-size: 20px"> Computational Design of High-level Interlocking Puzzles  </div>
+<div style="font-size: 14px"> Computational Design of High-level Interlocking Puzzles  </div>
 
 <br />
 <br />
@@ -53,7 +53,7 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 <div class='paper-box'><div class='paper-box-image'><img src='images/dfd_fpga.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-<div style="font-size: 20px"> FPGA Design of Real-time MDFD System using High-level Sysnthesis  </div>
+<div style="font-size: 14px"> FPGA Design of Real-time MDFD System using High-level Sysnthesis  </div>
 
 <br />
 <br />
@@ -69,7 +69,7 @@ Chuliang Wei, ***Rulin Chen***, Qin Xin
 <div class='paper-box'><div class='paper-box-image'><img src='images/dfd.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-<div style="font-size: 20px"> Shape Reconstruction from a Monocular Defocus Image Using CNN </div>
+<div style="font-size: 14px"> Shape Reconstruction from a Monocular Defocus Image Using CNN </div>
 
 <br />
 <br />
