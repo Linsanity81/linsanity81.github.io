@@ -35,7 +35,8 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Siggraph 2022</div><img src='images/high-level_puzzle.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-<div style="font-size: 20px"> **Computational Design of High-level Interlocking Puzzles** </div>
+<br />
+<br />
 
 ***Rulin Chen***, Ziqi Wang, Peng Song, Bernd Bickel
 
@@ -50,13 +51,14 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 <div class='paper-box'><div class='paper-box-image'><img src='images/dfd_fpga.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-FPGA Design of Real-time MDFD System using High-level Sysnthesis 
+<div style="font-size: 20px"> FPGA Design of Real-time MDFD System using High-level Sysnthesis  </div>
+
+<br />
+<br />
 
 Chuliang Wei, ***Rulin Chen***, Qin Xin
 
-***IEEE Access*** 
-
-[\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8743445)
+***IEEE Access*** [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8743445)
 
 </div>
 </div>
@@ -65,13 +67,14 @@ Chuliang Wei, ***Rulin Chen***, Qin Xin
 <div class='paper-box'><div class='paper-box-image'><img src='images/dfd.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-Shape Reconstruction from a Monocular Defocus Image Using CNN
+<div style="font-size: 20px"> Shape Reconstruction from a Monocular Defocus Image Using CNN </div>
+
+<br />
+<br />
 
 ***Rulin Chen***, Alex Noel Joseph Raj, Xun Ma, Zhemin Zhuang
 
-***SAI Intelligent Systems Conference 2020***  
-
-[\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf)
+***SAI Intelligent Systems Conference 2020***  [\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf)
 
 
 </div>
