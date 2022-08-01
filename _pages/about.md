@@ -35,6 +35,8 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Siggraph 2022</div><img src='images/high-level_puzzle.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
+<div style="font-size: 20px"> Computational Design of High-level Interlocking Puzzles  </div>
+
 <br />
 <br />
 
