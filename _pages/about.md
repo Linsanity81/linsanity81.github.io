@@ -20,11 +20,12 @@ redirect_from:
 Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.github.io/">Computer Graphics Laboratory (CGL)</a>, SUTD, Singapore, under supervision of Prof. Peng Song. He finished his Bachelor degree at Shantou University, China. The topic of his study mainly focuses on designing 3D assemblies using assembly-aware computational methods. Particularly, his work can be applied to design high-level interlocking puzzles.
 
 # Educations
-- *Ph.D. in Computer Graphics, Computer Graphics Laboratory, SUTD, Singapore*, 2020.09 - 
+- *Ph.D. in Computer Graphics, Computer Graphics Laboratory, SUTD, Singapore*, 2020.09 - present
 - *Bachelor in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.06 
 
 # News
-- *2022.04*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been has been selected for inclusion in the Technical Papers Video Trailer Siggraph 2022.
+- *2022.06*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) is honored with the [SIGGRAPH 2022 Technical Papers Honorable Mention Award](https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/)!
+- *2022.04*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been selected for inclusion in the Technical Papers Video Trailer Siggraph 2022.
 - *2022.03*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been accepted by Siggraph 2022. 
 - *2022.02*: Pass the QPE and become a Ph.D candidate.
 - *2020.09*: Enrolled as a Ph.D. student at CGL, SUTD under supervision of Prof. Peng Song. 
@@ -38,9 +39,9 @@ Computational Design of High-level Interlocking Puzzles
 
 **Rulin Chen**, Ziqi Wang, Peng Song, Bernd Bickel
 
-[\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) [\[video\]](https://www.youtube.com/watch?v=03WBVhs_6GI)  [\[code\]](https://github.com/Linsanity81/High-LevelPuzzle) 
+**ACM Transactions on Graphics (Proc. of SIGGRAPH), 2022** [\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) [\[video\]](https://www.youtube.com/watch?v=03WBVhs_6GI)  [\[code\]](https://github.com/Linsanity81/High-LevelPuzzle) 
 
-<!-- [\[home page\]](TODO..) \| [\[pdf\]](TODO..) \| [\[code\]](TODO..) \| [\[video\]](TODO..) -->
+<!-- [\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) \| [\[pdf\]](TODO..) \| [\[code\]](TODO..) \| [\[video\]](TODO..) -->
 
 </div>
 </div>
