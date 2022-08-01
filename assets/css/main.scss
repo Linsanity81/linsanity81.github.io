@@ -48,8 +48,8 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    width: 800px;
-    height: 320px;
+    //width: 800px;
+    //height: 320px;
     
 
     .paper-box-image{
@@ -59,8 +59,8 @@
         height: 80%;
         order: 2;
         img {
-            max-width: 400px;
-            max-height: 320px;
+            width: 400px;
+            height: 320px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
