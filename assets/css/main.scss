@@ -60,7 +60,7 @@
         order: 2;
         img {
             width: 400px;
-            height: 320px;
+            height: 240px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -76,6 +76,8 @@
             justify-content: left;
             //min-width: 200px;
             //max-width: 40%;
+            width: 400px;
+            height: 240px;
             order: 1;
         }
         
