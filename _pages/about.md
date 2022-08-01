@@ -35,11 +35,13 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Siggraph 2022</div><img src='images/high-level_puzzle.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-Computational Design of High-level Interlocking Puzzles
+**Computational Design of High-level Interlocking Puzzles**
 
-**Rulin Chen**, Ziqi Wang, Peng Song, Bernd Bickel
+***Rulin Chen***, Ziqi Wang, Peng Song, Bernd Bickel
 
-**ACM Transactions on Graphics (Proc. of SIGGRAPH), 2022** [\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) [\[video\]](https://www.youtube.com/watch?v=03WBVhs_6GI)  [\[code\]](https://github.com/Linsanity81/High-LevelPuzzle) 
+***ACM Transactions on Graphics (Proc. of SIGGRAPH), 2022*** 
+
+[\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) [\[video\]](https://www.youtube.com/watch?v=03WBVhs_6GI)  [\[code\]](https://github.com/Linsanity81/High-LevelPuzzle) 
 
 <!-- [\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) \| [\[pdf\]](TODO..) \| [\[code\]](TODO..) \| [\[video\]](TODO..) -->
 
@@ -52,9 +54,11 @@ Computational Design of High-level Interlocking Puzzles
 
 FPGA Design of Real-time MDFD System using High-level Sysnthesis 
 
-Chuliang Wei, **Rulin Chen**, Qin Xin
+Chuliang Wei, ***Rulin Chen***, Qin Xin
 
-**IEEE Access** [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8743445)
+***IEEE Access*** 
+
+[\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8743445)
 
 </div>
 </div>
@@ -65,9 +69,11 @@ Chuliang Wei, **Rulin Chen**, Qin Xin
 
 Shape Reconstruction from a Monocular Defocus Image Using CNN
 
-**Rulin Chen**, Alex Noel Joseph Raj, Xun Ma, Zhemin Zhuang
+***Rulin Chen***, Alex Noel Joseph Raj, Xun Ma, Zhemin Zhuang
 
-**SAI Intelligent Systems Conference 2020**  [\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf)
+***SAI Intelligent Systems Conference 2020***  
+
+[\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf)
 
 
 </div>
