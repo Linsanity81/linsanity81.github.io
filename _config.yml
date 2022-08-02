@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Rulin Chen (陈儒林)"
+  name             : "Rulin Chen"
   avatar           : "images/photo.jpg"
   bio              : "Singapore University of Technology and Design"
   location         : "Singapore"
@@ -94,7 +94,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 

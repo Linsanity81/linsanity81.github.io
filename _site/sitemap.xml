@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/rubygems-3.3.19/CHANGELOG/</loc>
+</url>
+<url>
+<loc>/rubygems-3.3.19/POLICIES/</loc>
+</url>
+<url>
+<loc>/rubygems-3.3.19/UPGRADING/</loc>
+</url>
+<url>
+<loc>/rubygems-3.3.19/bundler/CHANGELOG/</loc>
+</url>
+<url>
+<loc>/rubygems-3.3.19/bundler/UPGRADING/</loc>
+</url>
+<url>
+<loc>/rubygems-3.3.19/</loc>
+</url>
+<url>
+<loc>/rubygems-3.3.19/bundler/</loc>
+</url>
+</urlset>
