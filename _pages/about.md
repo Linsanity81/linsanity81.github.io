@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.github.io/">Computer Graphics Laboratory (CGL)</a>, SUTD, Singapore, under supervision of Prof. Peng Song. He finished his Bachelor degree at Shantou University, China. The topic of his study mainly focuses on designing 3D assemblies using assembly-aware computational methods. Particularly, his work can be applied to design high-level interlocking puzzles and architectures.
+Rulin Chen is currently a Ph.D. candidate at <a href="https://sutd-cgl.github.io">Computer Graphics Laboratory (CGL)</a>, SUTD, Singapore, under supervision of Prof. Peng Song. He finished his Bachelor degree at Shantou University, China. The topic of his study mainly focuses on designing 3D assemblies using assembly-aware computational methods. Particularly, his work can be applied to design high-level interlocking puzzles and architectures.
 
 # News
 - *2022.06*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) is honored with the [SIGGRAPH 2022 Technical Papers Honorable Mention Award](https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/)!
@@ -58,7 +58,7 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 
 ***ACM Transactions on Graphics (Proc. of SIGGRAPH), 2022*** 
 
-[\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) [\[video\]](https://www.youtube.com/watch?v=03WBVhs_6GI)  [\[code\]](https://github.com/Linsanity81/High-LevelPuzzle) 
+[\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) [\[video\]](https://www.youtube.com/watch?v=sl6GiL5z2OM)  [\[code\]](https://github.com/Linsanity81/High-LevelPuzzle) 
 
 </div>
 </div>
