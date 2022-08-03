@@ -19,16 +19,26 @@ redirect_from:
 
 Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.github.io/">Computer Graphics Laboratory (CGL)</a>, SUTD, Singapore, under supervision of Prof. Peng Song. He finished his Bachelor degree at Shantou University, China. The topic of his study mainly focuses on designing 3D assemblies using assembly-aware computational methods. Particularly, his work can be applied to design high-level interlocking puzzles.
 
-# Educations
-- *Ph.D. in Computer Graphics, Computer Graphics Laboratory, SUTD, Singapore*, 2020.09 - present
-- *Bachelor in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.06 
-
 # News
 - *2022.06*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) is honored with the [SIGGRAPH 2022 Technical Papers Honorable Mention Award](https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/)!
 - *2022.04*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been selected for inclusion in the Technical Papers Video Trailer Siggraph 2022.
 - *2022.03*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been accepted by Siggraph 2022. 
 - *2022.02*: Pass the QPE and become a Ph.D candidate.
 - *2020.09*: Enrolled as a Ph.D. student at CGL, SUTD under supervision of Prof. Peng Song. 
+
+# Educations
+- *Ph.D. in Computer Graphics, Computer Graphics Laboratory, SUTD, Singapore*, 2020.09 - present
+- *Bachelor in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.06 
+
+# Professional Experience
+- *2022 Aug*, *2022 Oct* : Student Facilitator, FACT Programme, SUTD
+- *2021 Fall*, *2022 Fall* : Teaching Assistant for Graphics and Visualization (51.023), SUTD
+- *2019.9* - *2020.6* : Research Assistant, The Chinese University of Hong Kong (Shenzhen Campus).
+- *2017.9* - *2019.6* : Research Assistant, Shantou University.
+
+# Awards
+- SIGGRAPH 2022 Technical Papers Honorable Mention Award
+- SUTD PhD Fellowship
 
 # Publications 
 
@@ -78,20 +88,25 @@ Chuliang Wei, ***Rulin Chen***, Qin Xin
 
 ***SAI Intelligent Systems Conference 2020***  [\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf)
 
-
-</div>
-</div>
-<!-- # Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- [Computational Design of High-level Interlocking Puzzles](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Rulin Chen**, Ziqi Wang, Peng Song, Bernd Bickel
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<br />
+<br />
+
+# Invited Talks
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/high-level_puzzle_talk.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+<div style="font-size: 18px"> Computational Design of High-level Interlocking Puzzles  </div>
+
+<br />
+<br />
+
+***ACM Transactions on Graphics (Proc. of SIGGRAPH), 2022*** 
+
+[\[video\]](https://www.bilibili.com/video/BV1Ta411x7v1?spm_id_from=333.999.0.0&vd_source=c915ebf7e640533f49df6e27e4066a78)
+
+</div>
+</div>
