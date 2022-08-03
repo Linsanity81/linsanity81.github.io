@@ -33,8 +33,8 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 # Professional Experience
 - *2022 Aug*, *2022 Oct* : Student Facilitator, FACT Programme, SUTD
 - *2021 Fall*, *2022 Fall* : Teaching Assistant for Graphics and Visualization (51.023), SUTD
-- *2019.9* - *2020.6* : Research Assistant, The Chinese University of Hong Kong (Shenzhen Campus).
-- *2017.9* - *2019.6* : Research Assistant, Shantou University.
+- *2019.9* - *2020.6* : Research Assistant, The Chinese University of Hong Kong (Shenzhen Campus)
+- *2017.9* - *2019.6* : Research Assistant, Shantou University
 
 # Awards
 - SIGGRAPH 2022 Technical Papers Honorable Mention Award
