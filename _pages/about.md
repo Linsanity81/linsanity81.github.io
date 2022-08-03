@@ -23,8 +23,8 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 - *2022.06*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) is honored with the [SIGGRAPH 2022 Technical Papers Honorable Mention Award](https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/)!
 - *2022.04*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been selected for inclusion in the Technical Papers Video Trailer Siggraph 2022.
 - *2022.03*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been accepted by Siggraph 2022. 
-- *2022.02*: Pass the QPE and become a Ph.D candidate.
-- *2020.09*: Enrolled as a Ph.D. student at CGL, SUTD under supervision of Prof. Peng Song. 
+- *2022.02*: Pass the QPE and become a Ph.D candidate
+- *2020.09*: Enrolled as a Ph.D. student at CGL, SUTD under supervision of Prof. Peng Song
 
 # Educations
 - *Ph.D. in Computer Graphics, Computer Graphics Laboratory, SUTD, Singapore*, 2020.09 - present
@@ -104,9 +104,7 @@ Chuliang Wei, ***Rulin Chen***, Qin Xin
 <br />
 <br />
 
-***ACM Transactions on Graphics (Proc. of SIGGRAPH), 2022*** 
-
-[\[video\]](https://www.bilibili.com/video/BV1Ta411x7v1?spm_id_from=333.999.0.0&vd_source=c915ebf7e640533f49df6e27e4066a78)
+***ACM Transactions on Graphics (Proc. of SIGGRAPH), 2022*** [\[video\]](https://www.bilibili.com/video/BV1Ta411x7v1?spm_id_from=333.999.0.0&vd_source=c915ebf7e640533f49df6e27e4066a78)
 
 </div>
 </div>
