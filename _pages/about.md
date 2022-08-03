@@ -40,6 +40,10 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://https://sutd-cgl.g
 - SIGGRAPH 2022 Technical Papers Honorable Mention Award
 - SUTD PhD Fellowship
 
+<br />
+<br />
+
+
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/high-level_puzzle.png' alt="sym" width="100%"></div>
