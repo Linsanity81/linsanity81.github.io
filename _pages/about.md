@@ -47,7 +47,7 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://sutd-cgl.github.io
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/tileable_shell.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/masonry_tileable_shell.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 <div style="font-size: 18px"> Masonry Shell Structures with Discrete Equivalence Classes  </div>
