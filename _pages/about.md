@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Rulin Chen is currently a Ph.D. candidate at <a href="https://sutd-cgl.github.io">Computer Graphics Laboratory (CGL)</a>, SUTD, Singapore, under supervision of Prof. Peng Song. He finished his Bachelor degree at Shantou University, China. The topic of his study mainly focuses on designing 3D assemblies using assembly-aware computational methods. Particularly, his work can be applied to design high-level interlocking puzzles and architectures.
+I am currently a Ph.D. candidate at <a href="https://sutd-cgl.github.io">Computer Graphics Laboratory (CGL)</a>, SUTD, Singapore, under supervision of Prof. Peng Song. Previously I finished my Bachelor degree at Shantou University, China. My research interests is computationaly designing 3D assemblies with rigid parts. Particularly, my proposed approaches can be applied to design interesting high-level interlocking puzzles (maybe the most complex 3D interlocking puzzle in this world) and cost-efficient masonry shell structures / wireframe mesh structures.
+
+Besides, I am a crazy fan of any kinds of sports activities. Specifically, I am a big fan of Houston Rockets (NBA) and Liverpool FC (Premier League). I am a point gurad at the basketball court and the captain of basketball team of Engineering College of Shantou University from 2017 to 2020. My biggest dream is to use my knowledge to help my loved teams to win more trophies, which seems to be unreachable for me so far. > - <
 
 # News
 - *2023.03*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2023-SIGGRAPH-TileableShell/index.html) has been accepted by Siggraph 2023. 
@@ -59,7 +61,7 @@ Rulin Chen is currently a Ph.D. candidate at <a href="https://sutd-cgl.github.io
 
 ***ACM Transactions on Graphics (Proc. of SIGGRAPH), 2023*** 
 
-[\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2023-SIGGRAPH-TileableShell/index.html) [\[code (coming soon)\]](https://github.com/Linsanity81/TileableShell) 
+[\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2023-SIGGRAPH-TileableShell/index.html) [\[video\]](https://www.youtube.com/watch?v=OJvWdn6Fcio) [\[code\]](https://github.com/Linsanity81/TileableShell) 
 
 </div>
 </div>
