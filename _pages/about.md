@@ -21,7 +21,7 @@ I am currently a Ph.D. candidate at <a href="https://sutd-cgl.github.io">Compute
 
 Besides, I am a crazy fan of any kinds of sports activities. Specifically, I am a big fan of Houston Rockets (NBA) and Liverpool FC (Premier League). I am a point gurad at the basketball court and the captain of basketball team of Engineering College of Shantou University from 2017 to 2020. My biggest dream is to use my knowledge to help my loved teams to win more trophies, which seems to be unreachable for me so far. > - <
 
-During my undergraduate study, I won university basketball champion three times from 2016 to 2017; won long jump champion at university sports meeting three from 2016 to 2018; represented Shantou University to attend 3v3 Guangdong Province University Basketball Opening two times in 2018 and 2019; was selected as the memebr of sunshine basketball team of Shantou Univeristy in 2017. These are my fondest memories in my life.
+During my undergraduate study, I won university basketball champion three times from 2016 to 2017; won long jump champion at university sports meeting three times from 2016 to 2018; represented Shantou University to attend 3v3 Guangdong Province University Basketball Opening two times in 2018 and 2019; was selected as the memebr of sunshine basketball team of Shantou Univeristy in 2017. These are my fondest memories in my life.
 
 # News
 - *2023.03*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2023-SIGGRAPH-TileableShell/index.html) has been accepted by Siggraph 2023. 
