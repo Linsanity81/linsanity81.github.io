@@ -23,7 +23,7 @@ Besides, I am a crazy fan of any kinds of sports activities. Specifically, I am 
 
 During my undergraduate study, I won university basketball champions three times from 2016 to 2017; won long jump champion at university sports meeting three times from 2016 to 2018; represented Shantou University to attend 3v3 Guangdong Province University Basketball Opening two times in 2018 and 2019; was selected as the memebr of sunshine basketball team of Shantou Univeristy in 2017. These are my fondest memories in my life.
 
-My latest CV is <a href='files/_Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
+My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 
 # News
 - *2024.06*: Pass the oral defence and become a Ph.D finally!
@@ -34,17 +34,22 @@ My latest CV is <a href='files/_Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 - *2022.02*: Pass the QPE and become a Ph.D candidate.
 - *2020.09*: Enrolled as a Ph.D. student at CGL, SUTD under supervision of Prof. Peng Song.
 
-# Educations
+# Education
 - *Ph.D. in Computer Graphics, Computer Graphics Laboratory, SUTD, Singapore*, 2020.09 - 2024.06
 - *Exchage Student in The Chinese University of Hong Kong*, 2019.9 - 2020.6 
 - *B.S in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.06 
 
-# Teaching Experience
-- *20*
-- *2022 Aug*, *2022 Oct* : Student Facilitator, FACT Programme, SUTD
+# Teaching
+- *2024.08* : Project Leader, [Summer Geometry Initiative](https://sgi.mit.edu/sgi-2024) hosted by Prof. [Justin Solomon](https://people.csail.mit.edu/jsolomon/), Remote
+- *2022 Fall*: Student Facilitator, FACT Programme, SUTD
 - *2021 Fall*, *2022 Fall* : Teaching Assistant for Graphics and Visualization (50.017), SUTD
 
-# Awards
+# Mentoring
+- *Yuhang Wang* (RA at SUTD -> PhD student at University of South Florida), 2023.11 - present
+- *Pengyun Qiu* (RA at SUTD -> PhD student at Simon Fraser University), 2022.10 - 2024.03
+- *Zebin Chen* (RA at SUTD), 2022.06 - present
+
+# Award
 - SIGGRAPH 2022 Technical Papers Honorable Mention Award
 - SUTD PhD Fellowship
 
@@ -52,7 +57,7 @@ My latest CV is <a href='files/_Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 <br />
 
 
-# Publications 
+# Publication
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/masonry_tileable_shell.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
