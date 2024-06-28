@@ -60,8 +60,8 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 - SIGGRAPH 2022 Technical Papers Honorable Mention Award
 - SUTD PhD Fellowship
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
 # Publication in TOG / SIGGRAPH / SIGGRAPH Asia
 
