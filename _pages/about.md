@@ -26,7 +26,7 @@ During my undergraduate study, I won university basketball champions three times
 My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 
 # News
-- *2024.06*: Pass the oral defence and become a Ph.D finally!
+- *2024.06*: Pass the oral defence and become a Ph.D !
 - *2023.03*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2023-SIGGRAPH-TileableShell/index.html) has been accepted by Siggraph 2023. 
 - *2022.06*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) is honored with the [SIGGRAPH 2022 Technical Papers Honorable Mention Award](https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/)!
 - *2022.04*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been selected for inclusion in the Technical Papers Video Trailer Siggraph 2022.
@@ -62,7 +62,6 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 
 <br />
 <br />
-
 
 # Publication in TOG / SIGGRAPH / SIGGRAPH Asia
 
