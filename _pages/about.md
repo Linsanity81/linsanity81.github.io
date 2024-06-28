@@ -63,7 +63,7 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/high-level_puzzle.png' alt="sym" width="80%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/high-level_puzzle.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 <div style="font-size: 18px"> Computational Design of High-level Interlocking Puzzles  </div>
@@ -126,11 +126,11 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 - *Zebin Chen* (RA at SUTD), 2022.06 - present
 
 # Research Activity
-*Journal Reviewer* of ACM Transactions on Graphics, The Visual Computer, Computers & Graphics
-*Conference Reviewer* of SIGGRAPH Asia 2024, PG 2024, CGI 2023
-*Invited Talk* at SIGGRAPH 2022, 2023
-*Invited Lab Demo* at SIGGRAPH 2022
-*Co-organizer* of [Computational Fabrication Seminar](https://computational-fabrication.org/) 2021, 2022
+- *Journal Reviewer* of ACM Transactions on Graphics, The Visual Computer, Computers & Graphics
+- *Conference Reviewer* of SIGGRAPH Asia 2024, PG 2024, CGI 2023
+- *Invited Talk* at SIGGRAPH 2022, 2023
+- *Invited Lab Demo* at SIGGRAPH 2022
+- *Co-organizer* of [Computational Fabrication Seminar](https://computational-fabrication.org/) 2021, 2022
 
 # Award
 - SIGGRAPH 2022 Technical Papers Honorable Mention Award
