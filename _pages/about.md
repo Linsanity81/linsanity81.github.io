@@ -57,7 +57,7 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 <br />
 
 
-# Publication
+# TOG/SIGGRAPH Publication
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/masonry_tileable_shell.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -103,7 +103,7 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 <br />
 <br />
 
-Chuliang Wei, ***Rulin Chen***, Qin Xin
+<!-- Chuliang Wei, ***Rulin Chen***, Qin Xin
 
 ***IEEE Access*** [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8743445)
 
@@ -121,13 +121,13 @@ Chuliang Wei, ***Rulin Chen***, Qin Xin
 
 ***Rulin Chen***, Alex Noel Joseph Raj, Xun Ma, Zhemin Zhuang
 
-***SAI Intelligent Systems Conference 2020***  [\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf)
+***SAI Intelligent Systems Conference 2020***  [\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf) -->
 
-</div>
+<!-- </div>
 </div>
 
 <br />
-<br />
+<br /> -->
 
 # Invited Talks
 
