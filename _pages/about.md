@@ -39,20 +39,6 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 - *Exchage Student in The Chinese University of Hong Kong*, 2019.9 - 2020.6 
 - *B.S in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.06 
 
-# Teaching
-- *2024.08* : Project Leader, [Summer Geometry Initiative](https://sgi.mit.edu/sgi-2024) hosted by Prof. [Justin Solomon](https://people.csail.mit.edu/jsolomon/), Remote
-- *2022 Fall*: Student Facilitator, FACT Programme, SUTD
-- *2021 Fall*, *2022 Fall* : Teaching Assistant for Graphics and Visualization (50.017), SUTD
-
-# Mentoring
-- *Yuhang Wang* (RA at SUTD -> PhD student at University of South Florida), 2023.11 - present
-- *Pengyun Qiu* (RA at SUTD -> PhD student at Simon Fraser University), 2022.10 - 2024.03
-- *Zebin Chen* (RA at SUTD), 2022.06 - present
-
-# Award
-- SIGGRAPH 2022 Technical Papers Honorable Mention Award
-- SUTD PhD Fellowship
-
 <br />
 <br />
 
@@ -123,11 +109,25 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 
 ***SAI Intelligent Systems Conference 2020***  [\[pdf\]](https://www.researchgate.net/profile/Alex-Noel-Joseph-Raj/publication/335382542_Shape_Reconstruction_from_a_Monocular_Defocus_Image_Using_CNN/links/6034dbd492851c4ed58e5abf/Shape-Reconstruction-from-a-Monocular-Defocus-Image-Using-CNN.pdf) -->
 
-<!-- </div>
+</div>
 </div>
 
 <br />
-<br /> -->
+<br />
+
+# Teaching
+- *2024.08* : Project Leader, [Summer Geometry Initiative](https://sgi.mit.edu/sgi-2024) hosted by Prof. [Justin Solomon](https://people.csail.mit.edu/jsolomon/), Remote
+- *2022 Fall*: Student Facilitator, FACT Programme, SUTD
+- *2021 Fall*, *2022 Fall* : Teaching Assistant for Graphics and Visualization (50.017), SUTD
+
+# Mentoring
+- *Yuhang Wang* (RA at SUTD -> PhD student at University of South Florida), 2023.11 - present
+- *Pengyun Qiu* (RA at SUTD -> PhD student at Simon Fraser University), 2022.10 - 2024.03
+- *Zebin Chen* (RA at SUTD), 2022.06 - present
+
+# Award
+- SIGGRAPH 2022 Technical Papers Honorable Mention Award
+- SUTD PhD Fellowship
 
 # Invited Talks
 
