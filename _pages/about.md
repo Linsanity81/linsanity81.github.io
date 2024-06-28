@@ -91,7 +91,7 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 
 [\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) [\[video\]](https://www.youtube.com/watch?v=sl6GiL5z2OM)  [\[code\]](https://github.com/Linsanity81/High-LevelPuzzle) 
 
-</div>
+<!-- </div>
 </div>
 
 
@@ -102,7 +102,7 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 
 <br />
 <br />
-
+ -->
 <!-- Chuliang Wei, ***Rulin Chen***, Qin Xin
 
 ***IEEE Access*** [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8743445)
