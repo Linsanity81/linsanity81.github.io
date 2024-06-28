@@ -39,11 +39,11 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 - *Exchage Student in The Chinese University of Hong Kong*, 2019.9 - 2020.6 
 - *B.S in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.06 
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
 
-# TOG/SIGGRAPH Publication
+# Publication in TOG / SIGGRAPH / SIGGRAPH Asia
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/masonry_tileable_shell.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +63,7 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/high-level_puzzle.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/high-level_puzzle.png' alt="sym" width="80%"></div>
 <div class='paper-box-text' markdown="1">
 
 <div style="font-size: 18px"> Computational Design of High-level Interlocking Puzzles  </div>
@@ -112,8 +112,8 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 </div>
 </div>
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
 # Teaching
 - *2024.08* : Project Leader, [Summer Geometry Initiative](https://sgi.mit.edu/sgi-2024) hosted by Prof. [Justin Solomon](https://people.csail.mit.edu/jsolomon/), Remote
@@ -125,11 +125,18 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 - *Pengyun Qiu* (RA at SUTD -> PhD student at Simon Fraser University), 2022.10 - 2024.03
 - *Zebin Chen* (RA at SUTD), 2022.06 - present
 
+# Research Activity
+*Journal Reviewer* of ACM Transactions on Graphics, The Visual Computer, Computers & Graphics
+*Conference Reviewer* of SIGGRAPH Asia 2024, PG 2024, CGI 2023
+*Invited Talk* at SIGGRAPH 2022, 2023
+*Invited Lab Demo* at SIGGRAPH 2022
+*Co-organizer* of [Computational Fabrication Seminar](https://computational-fabrication.org/) 2021, 2022
+
 # Award
 - SIGGRAPH 2022 Technical Papers Honorable Mention Award
 - SUTD PhD Fellowship
 
-# Invited Talks
+<!-- # Invited Talks
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/high-level_puzzle_talk.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -142,4 +149,4 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 ***ACM Transactions on Graphics (Proc. of SIGGRAPH), 2022*** [\[video\]](https://www.bilibili.com/video/BV1Ta411x7v1?spm_id_from=333.999.0.0&vd_source=c915ebf7e640533f49df6e27e4066a78)
 
 </div>
-</div>
+</div> -->
