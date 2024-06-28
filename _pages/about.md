@@ -39,8 +39,29 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 - *Exchage Student in The Chinese University of Hong Kong*, 2019.9 - 2020.6 
 - *B.S in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.06 
 
-<!-- <br />
-<br /> -->
+# Teaching
+- *2024.08* : Project Leader, [Summer Geometry Initiative](https://sgi.mit.edu/sgi-2024) hosted by Prof. [Justin Solomon](https://people.csail.mit.edu/jsolomon/), Remote
+- *2022 Fall*: Student Facilitator, FACT Programme, SUTD
+- *2021 Fall*, *2022 Fall* : Teaching Assistant for Graphics and Visualization (50.017), SUTD
+
+# Mentoring
+- *Yuhang Wang* (RA at SUTD -> PhD student at University of South Florida), 2023.11 - present
+- *Pengyun Qiu* (RA at SUTD -> PhD student at Simon Fraser University), 2022.10 - 2024.03
+- *Zebin Chen* (RA at SUTD), 2022.06 - present
+
+# Research Activity
+- *Journal Reviewer* of ACM Transactions on Graphics, The Visual Computer, Computers & Graphics
+- *Conference Reviewer* of SIGGRAPH Asia 2024, PG 2024, CGI 2023
+- *Invited Talk* at SIGGRAPH 2022, 2023
+- *Invited Lab Demo* at SIGGRAPH 2022
+- *Co-organizer* of [Computational Fabrication Seminar](https://computational-fabrication.org/) 2021, 2022
+
+# Award
+- SIGGRAPH 2022 Technical Papers Honorable Mention Award
+- SUTD PhD Fellowship
+
+<br />
+<br />
 
 
 # Publication in TOG / SIGGRAPH / SIGGRAPH Asia
@@ -114,27 +135,6 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 
 <!-- <br />
 <br /> -->
-
-# Teaching
-- *2024.08* : Project Leader, [Summer Geometry Initiative](https://sgi.mit.edu/sgi-2024) hosted by Prof. [Justin Solomon](https://people.csail.mit.edu/jsolomon/), Remote
-- *2022 Fall*: Student Facilitator, FACT Programme, SUTD
-- *2021 Fall*, *2022 Fall* : Teaching Assistant for Graphics and Visualization (50.017), SUTD
-
-# Mentoring
-- *Yuhang Wang* (RA at SUTD -> PhD student at University of South Florida), 2023.11 - present
-- *Pengyun Qiu* (RA at SUTD -> PhD student at Simon Fraser University), 2022.10 - 2024.03
-- *Zebin Chen* (RA at SUTD), 2022.06 - present
-
-# Research Activity
-- *Journal Reviewer* of ACM Transactions on Graphics, The Visual Computer, Computers & Graphics
-- *Conference Reviewer* of SIGGRAPH Asia 2024, PG 2024, CGI 2023
-- *Invited Talk* at SIGGRAPH 2022, 2023
-- *Invited Lab Demo* at SIGGRAPH 2022
-- *Co-organizer* of [Computational Fabrication Seminar](https://computational-fabrication.org/) 2021, 2022
-
-# Award
-- SIGGRAPH 2022 Technical Papers Honorable Mention Award
-- SUTD PhD Fellowship
 
 <!-- # Invited Talks
 
