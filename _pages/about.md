@@ -100,7 +100,6 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 <!-- </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><img src='images/dfd_fpga.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
