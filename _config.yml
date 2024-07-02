@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Rulin Chen"
-description              : "Ph.D. Candidate"
+title                    : "Dr. Rulin Chen"
+description              : "Ph.D. from SUTD"
 repository               : 
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rulin Chen"
   avatar           : "images/photo.jpg"
-  bio              : "Singapore University of Technology and Design"
+  bio              : "Postdoc Researcher at SUTD"
   location         : "Singapore"
   employer         :
   pubmed           : 
