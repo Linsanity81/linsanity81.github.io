@@ -77,6 +77,8 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 
 ***ACM Transactions on Graphics (Proc. of SIGGRAPH), 2023*** 
 
+<span style="color:blue">some *blue* text</span>
+
 [\[home page\]](https://sutd-cgl.github.io/supp/Publication/projects/2023-SIGGRAPH-TileableShell/index.html) [\[video\]](https://www.youtube.com/watch?v=OJvWdn6Fcio) [\[code\]](https://github.com/Linsanity81/TileableShell) 
 
 </div>
