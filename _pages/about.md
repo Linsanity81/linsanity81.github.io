@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoc researcher at <a href="https://sutd-cgl.github.io">Computer Graphics Laboratory (CGL)</a>, SUTD, Singapore, under supervision of Prof. <a href="https://songpenghit.github.io/">Peng Song</a>, where I recevied my doctoral degree in June 2024. Previously, I received my Bachelor degree at Shantou University, China. I also was an research assistant in CUHKSZ  under supervision of Prof. <a href="https://lhs.cuhk.edu.cn/en/teacher/268">Zhenglong Sun</a> from 2019 to 2020. My research interests are in computational design, geometry processing and architectural geometry. Particularly, I focus on computationaly designing 3D assemblies with discrete equivalence classes during my PhD study. My proposed approaches can be applied to design interesting high-level interlocking puzzles (maybe the most complex 3D interlocking puzzles in this world) and cost-efficient masonry shell structures / wireframe mesh structures.
+I am currently a postdoc researcher at <a href="https://sutd-cgl.github.io">Computer Graphics Laboratory (CGL)</a>, SUTD, Singapore, under supervision of Prof. <a href="https://songpenghit.github.io/">Peng Song</a>, where I received my doctoral degree in June 2024. Previously, I received my Bachelor degree in July 2020 at Shantou University, China. I also was a visiting student in CUHKSZ Robotics & AI Lab under supervision of Prof. <a href="https://lhs.cuhk.edu.cn/en/teacher/268">Zhenglong Sun</a> from Sept 2019 to May 2020. My research interests are in computational design, geometry processing and architectural geometry. Particularly, I focus on computationally designing 3D assemblies with discrete equivalence classes during my PhD study. My proposed approaches can be applied to design interesting high-level interlocking puzzles (maybe the most complex 3D interlocking puzzles in this world) and cost-efficient masonry shell structures / wireframe mesh structures.
 
 Besides, I am a crazy fan of any kinds of sports activities. Specifically, I am a big fan of Houston Rockets (NBA) and Liverpool FC (Premier League). I am a point guard at the basketball court and was the captain of Engineering College / Zhixing Academy basketball team from 2017 to 2020. My biggest dream is to use my knowledge to help my loved teams to win more trophies, which seems to be unreachable for me so far. > - <
 
-During my undergraduate study, I won university basketball champions three times from 2016 to 2017; won long jump champion at university sports meeting three times from 2016 to 2018; represented Shantou University to attend 3v3 Guangdong Province University Basketball Opening two times in 2018 and 2019; was selected as the memebr of sunshine basketball team of Shantou Univeristy in 2017. These are my fondest memories in my life.
+During my undergraduate study, I won university basketball champions three times from 2016 to 2017; won long jump champion at university sports meeting three times from 2016 to 2018; represented Shantou University to attend 3v3 Guangdong Province University Basketball Opening two times in 2018 and 2019; was selected as the member of sunshine basketball team of Shantou University in 2017. These are my fondest memories in my life.
 
 My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 
@@ -71,7 +71,6 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 <div style="font-size: 18px"> Masonry Shell Structures with Discrete Equivalence Classes  </div>
 
 <br />
-<br />
 
 ***Rulin Chen***, Pengyun Qiu, Peng Song, Bailin Deng, Ziqi Wang, Ying He
 
@@ -91,13 +90,16 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 <div style="font-size: 18px"> Computational Design of High-level Interlocking Puzzles  </div>
 
 <br />
-<br />
 
 ***Rulin Chen***, Ziqi Wang, Peng Song, Bernd Bickel
 
 ***ACM Transactions on Graphics (Proc. of SIGGRAPH), 2022*** 
 
 <span style="color:red"> *Best Paper Honorable Mention Award* </span>
+
+<span style="color:red"> *Selected for inclusion in the Technical Papers Video Trailer* </span>
+
+<span style="color:red"> *Selected for an in-person demo at the Labs Program* </span>
 
 <span style="color:red"> *Replicability Stamp Award* </span>
 
