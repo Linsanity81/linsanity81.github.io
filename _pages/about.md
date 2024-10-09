@@ -26,7 +26,7 @@ During my undergraduate study, I won university basketball champions three times
 My latest CV is <a href='files/Rulin_resume.pdf'>here</a>. (updated on 2024.09.01)
 
 # News
-- *2024.09*: Start my Postdoc journey in SUTD!
+- *2024.09*: Start my postdoc journey at SUTD!
 - *2024.06*: Pass the oral defence and become a Ph.D!
 - *2023.03*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2023-SIGGRAPH-TileableShell/index.html) has been accepted by Siggraph 2023. 
 - *2022.06*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) is honored with the [SIGGRAPH 2022 Technical Papers Honorable Mention Award](https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/)!
