@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dr. Rulin Chen"
-description              : "Ph.D. from SUTD"
+description              : "Postdoc at SUTD"
 repository               : 
 google_scholar_stats_use_cdn : false
 
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : "rulin-chen-74a144171"
+  dblp             : "https://dblp.org/pid/244/4437.html"
+  orcid            : "https://orcid.org/0000-0002-9981-2468"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
