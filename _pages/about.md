@@ -23,10 +23,11 @@ Besides, I am a crazy fan of any kinds of sports activities. Specifically, I am 
 
 During my undergraduate study, I won university basketball champions three times from 2016 to 2017; won long jump champion at university sports meeting three times from 2016 to 2018; represented Shantou University to attend 3v3 Guangdong Province University Basketball Opening two times in 2018 and 2019; was selected as the member of sunshine basketball team of Shantou University in 2017. These are my fondest memories in my life.
 
-My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
+My latest CV is <a href='files/Rulin_resume.pdf'>here</a>. (updated on 2024.09.01)
 
 # News
-- *2024.06*: Pass the oral defence and become a Ph.D !
+- *2024.09*: Start my Postdoc journey in SUTD!
+- *2024.06*: Pass the oral defence and become a Ph.D!
 - *2023.03*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2023-SIGGRAPH-TileableShell/index.html) has been accepted by Siggraph 2023. 
 - *2022.06*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) is honored with the [SIGGRAPH 2022 Technical Papers Honorable Mention Award](https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/)!
 - *2022.04*: [One paper](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html) has been selected for inclusion in the Technical Papers Video Trailer Siggraph 2022.
@@ -36,8 +37,8 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 
 # Education
 - *Ph.D. in Computer Graphics, Computer Graphics Laboratory, SUTD, Singapore*, 2020.09 - 2024.06
-- *Exchage Student in The Chinese University of Hong Kong*, 2019.9 - 2020.6 
-- *B.S in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.06 
+- *Exchange Student in The Chinese University of Hong Kong*, 2019.9 - 2020.5 
+- *B.S in Electrical Information Engineering, Shantou University*, 2016.09 - 2020.07 
 
 # Teaching
 - *2024.08* : Project Leader, [Summer Geometry Initiative](https://sgi.mit.edu/sgi-2024) hosted by Prof. [Justin Solomon](https://people.csail.mit.edu/jsolomon/), Remote
@@ -45,7 +46,9 @@ My latest CV is <a href='files/Rulin_cv.pdf'>here</a>. (updated on 2024.06.28)
 - *2021 Fall*, *2022 Fall* : Teaching Assistant for Graphics and Visualization (50.017), SUTD
 
 # Mentoring
-- *Yuhang Wang* (RA at SUTD -> PhD student at University of South Florida), 2023.11 - present
+- *Xuyang Ma* (PhD at SUTD), 2024.08 - present
+- *Yixuan He* (PhD at SUTD), 2024.08 - present
+- *Yuhang Wang* (RA at SUTD -> PhD student at University of South Florida), 2023.11 - 2024.08
 - *Pengyun Qiu* (RA at SUTD -> PhD student at Simon Fraser University), 2022.10 - 2024.03
 - *Zebin Chen* (RA at SUTD), 2022.06 - present
 
